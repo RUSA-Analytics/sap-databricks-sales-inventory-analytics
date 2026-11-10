@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,supplier,lead_time_days,reorder_level
+P001,Laptop,Electronics,65000,Tech Supplier A,10,20
+P002,Desktop Computer,Electronics,55000,Tech Supplier B,12,15
+P003,Monitor,Electronics,15000,Display Supplier,7,25
+P004,Keyboard,Accessories,1500,Accessory Supplier,5,50
+P005,Mouse,Accessories,800,Accessory Supplier,5,75
+P006,Printer,Electronics,12000,Print Supplier,8,20
+P007,Router,Networking,4500,Network Supplier,6,30
+P008,SSD,Components,7000,Component Supplier,10,25
+P009,RAM,Components,3500,Component Supplier,7,40
+P010,Webcam,Accessories,2500,Accessory Supplier,5,35

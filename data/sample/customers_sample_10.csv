@@ -1,0 +1,6 @@
+customer_id,customer_name,region,city,customer_segment
+CUST001,ABC Retail,West,Pune,Retail
+CUST002,XYZ Traders,North,Delhi,Wholesale
+CUST003,Pioneer Stores,South,Bangalore,Retail
+CUST004,Global Mart,East,Kolkata,Wholesale
+CUST005,Metro Distributors,West,Mumbai,Retail
