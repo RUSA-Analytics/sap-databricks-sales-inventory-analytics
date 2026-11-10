@@ -1,0 +1,37 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+.databrickscfg
+.databricks/
+.secrets/
+secrets/
+credentials*.json
+*.pem
+*.key
+*.pfx
+*.p12
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+# Local tools and temporary files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.log
+# Generated and private working data
+output/
+outputs/
+data/private/
+data/raw_private/
+*.zip
+*.pbix
+
